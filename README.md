@@ -24,3 +24,7 @@ Optionally, local CSV or Excel files for static or historical weather data.
 📊 Historical data comparison – Analyze weather trends over time.
 ⚙️ Custom filters – Filter by city, region, or time period.
 🔄 Auto-refresh support – Integrates with live APIs for updated weather data.
+
+6. Overview/ Demo
+What the dashboard looks like. - 
+Example : ![Dashboard Preview] (https://github.com/Shantanum10/Weather-Dashboard/blob/main/Weather_Dashboard_Interface.png).
