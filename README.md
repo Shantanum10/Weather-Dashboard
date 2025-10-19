@@ -26,4 +26,4 @@ Optionally, local CSV or Excel files for static or historical weather data.
 🔄 Auto-refresh support – Integrates with live APIs for updated weather data.
 
 6. Overview/ Demo
-- ![ALT text]([https://github.com/Shantanum10/Weather-Dashboard/blob/main/Weather_Dashboard_Interface.png]
+- ![ALT text](https://github.com/Shantanum10/Weather-Dashboard/blob/main/Weather_Dashboard_Interface.png)
