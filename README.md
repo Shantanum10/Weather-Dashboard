@@ -19,11 +19,11 @@
 Optionally, local CSV or Excel files for static or historical weather data.
 
 5. Features / Highlights
-🌦 Dynamic weather insights – View temperature, humidity, and wind speed trends.
-🗺️ Geographical analysis – Regional weather patterns visualized on interactive maps.
-📊 Historical data comparison – Analyze weather trends over time.
-⚙️ Custom filters – Filter by city, region, or time period.
-🔄 Auto-refresh support – Integrates with live APIs for updated weather data.
+- 🌦 Dynamic weather insights – View temperature, humidity, and wind speed trends.
+- 🗺️ Geographical analysis – Regional weather patterns visualized on interactive maps.
+- 📊 Historical data comparison – Analyze weather trends over time.
+- ⚙️ Custom filters – Filter by city, region, or time period.
+- 🔄 Auto-refresh support – Integrates with live APIs for updated weather data.
 
 6. Overview/ Demo
 - ![ALT text](https://github.com/Shantanum10/Weather-Dashboard/blob/main/Weather_Dashboard_Interface.png)
